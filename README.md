@@ -15,12 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=koyachito&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koyachito&count_private=true" />
-</a>
-
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=koyachito)](https://git.io/streak-stats)
