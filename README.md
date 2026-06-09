@@ -1,6 +1,6 @@
 ## About me
 
-C・Linux・Pythonを中心に、バックエンド開発と低レイヤの基礎を学んでいます。
+C・Linux・Pythonを中心に、バックエンド開発と低レイヤの基礎を学んでいます。<br>
 Backend-oriented learner focused on C, Linux, Python, and low-level fundamentals.
 
 - 🌌 42 Tokyo Piscineに向けて準備中
