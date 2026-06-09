@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm learning software engineering from the fundamentals.
+
+- C / Shell / Linux
+- Python / Django
+- Raspberry Pi Pico / MicroPython
+
+[![My Skills](https://skillicons.dev/icons?i=c,py,django,git,github&theme=light)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=koyachito)](https://git.io/streak-stats)
