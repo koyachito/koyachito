@@ -1,26 +1,16 @@
 ## Hi there 👋
 
-<!--
-**koyachito/koyachito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-oriented learner focused on C, Linux, Python, and low-level fundamentals.
 
-Here are some ideas to get you started:
+- 🌌 Preparing for 42 Tokyo
+- ⚙️ C / Shell / Linux / Git
+- 🐍 Python / Django
+- 🔌 Raspberry Pi Pico / low-level computing
+- 🌎 English & Spanish communication
+- 📝 Devlogs and small learning projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=c,py,django,git,github,linux&theme=light)](https://skillicons.dev)
 
-I'm learning software engineering from the fundamentals.
-
-- C / Shell / Linux
-- Python / Django
-- Raspberry Pi Pico / MicroPython
-
-[![My Skills](https://skillicons.dev/icons?i=c,py,django,git,github&theme=light)](https://skillicons.dev)
-
+## 🚀 Learning Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=koyachito)](https://git.io/streak-stats)
