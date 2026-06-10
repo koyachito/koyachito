@@ -1,5 +1,4 @@
 ## About me
-
 Backend-oriented learner focused on C, Linux, Python, and low-level fundamentals.
 
 - 🌌 Preparing for 42 Tokyo Piscine
