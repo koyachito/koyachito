@@ -8,7 +8,7 @@ Backend-oriented learner focused on C, Linux, Python, and low-level fundamentals
 - 🌎 English & Spanish communication
 
 ## 💫 Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=c,py,django,git,github,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,django,git,github,linux&theme=dark)](https://skillicons.dev)
 
 ## 🚀 Learning Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=koyachito)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=koyachito&theme=ayu-mirage)](https://git.io/streak-stats)
