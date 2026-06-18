@@ -11,4 +11,4 @@ Backend-oriented learner focused on C, Linux, Python, and low-level fundamentals
 [![My Skills](https://skillicons.dev/icons?i=c,py,django,git,github,linux&theme=light)](https://skillicons.dev)
 
 ## 🚀 Learning Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=koyachito&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=koyachito&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
