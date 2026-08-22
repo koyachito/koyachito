@@ -1,23 +1,53 @@
 ## About me
-Backend-oriented learner focused on C, Linux, Python, and low-level fundamentals.
 
-- 🌌 Preparing for 42 Tokyo Piscine
+Software engineering learner interested in Web development, backend systems, Linux, and low-level programming.
+
+- 🌐 Web development / backend
 - ⚙️ C / Shell / Linux / Git
-- 🐍 Python / Django
-- 🔌 Raspberry Pi Pico / low-level computing
+- 🟦 TypeScript / Next.js / React
+- 🐍 Python / FastAPI
+- 🌌 42 Tokyo Piscine — Aug–Sep 2026
 - 🌎 English & Spanish communication
- 
+
 ## 🛠️ Projects
-### [ramen_indulgence](https://github.com/koyachito/ramen_indulgence) 
-- ラーメンを食べる免罪符を発行するジョークWebアプリ（FastAPI / PostgreSQL / Docker, [Live Demo](https://ramen-indulgence.onrender.com/)）
-- 企画・仕様・検収・リリース判断を担当。実装はAIコーディングツール主体（詳細はリポジトリREADME）
-### [dotfiles](https://github.com/koyachito/dotfiles) 
-- Arch Linux + Sway environment with design docs, measurements, and CI
-### [catt](https://github.com/koyachito/catt) 
-- A cat walks across your terminal (C / ncurses)
+
+### [koya-blog](https://github.com/koyachito/koya-blog)
+
+Next.jsとPostgreSQLで構築した、個人ブログ兼ポートフォリオサイト。
+
+- TypeScript / Next.js / React / PostgreSQL / Prisma
+- Google OAuthによる認証・管理者認可
+- 記事・カテゴリー・タグのCRUD
+- Markdown表示・画像アップロード
+- Vercel / Neon / Cloudflareで本番公開
+- [Live Demo](https://koyachito.com)
+
+### [ramen_indulgence](https://github.com/koyachito/ramen_indulgence)
+
+ラーメンを食べる免罪符を発行するジョークWebアプリ。
+
+- FastAPI / PostgreSQL / Docker
+- Webアプリの企画・仕様設計・デプロイを経験
+- [Live Demo](https://ramen-indulgence.onrender.com/)
+
+### [catt](https://github.com/koyachito/catt)
+
+A cat walks across your terminal.
+
+- C / ncurses
+
+### [dotfiles](https://github.com/koyachito/dotfiles)
+
+Arch Linux + Sway development environment.
+
+- Linux / Shell
+- Configuration management
+- CI
 
 ## 💫 Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=c,py,django,git,github,linux&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,postgres,docker,c,py,git,github,linux&theme=light)](https://skillicons.dev)
 
 ## 🚀 Learning Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=koyachito&theme=ocean-gradient&hide_border=true&v=2)](https://git.io/streak-stats)
