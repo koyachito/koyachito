@@ -47,7 +47,3 @@ Arch Linux + Sway development environment.
 ## 💫 Currently Learning
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,postgres,docker,c,py,git,github,linux&theme=light)](https://skillicons.dev)
-
-## 🚀 Learning Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=koyachito&theme=ocean-gradient&hide_border=true&v=2)](https://git.io/streak-stats)
