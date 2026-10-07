@@ -6,7 +6,7 @@ Software engineering learner interested in Web development, backend systems, Lin
 - ⚙️ C / Shell / Linux / Git
 - 🟦 TypeScript / Next.js / React
 - 🐍 Python / FastAPI
-- 🌌 42 Tokyo Piscine — Aug–Sep 2026
+- 🌌 42 Tokyo — Core Curriculum Student (Piscine passed, 2026)
 - 🌎 English & Spanish communication
 
 ## 🛠️ Projects
@@ -43,6 +43,12 @@ Arch Linux + Sway development environment.
 - Linux / Shell
 - Configuration management
 - CI
+
+### 42 Tokyo — Core Curriculum Student
+- Passed the Aug–Sep 2026 Piscine
+- Final level: 11
+- Final Exam: 90/100
+- Completed BSQ
 
 ## 💫 Currently Learning
 
